@@ -1,0 +1,13 @@
+{
+  "name": "test-repo",
+  "version": "1.0.0",
+  "description": "Test repo to test continuous deployment with Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Adhiraj Singh",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
